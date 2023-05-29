@@ -1,0 +1,13 @@
+body {
+    background: #57BB8A;
+}
+
+.container {
+    background: #FFA500 ;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
